@@ -1,8 +1,8 @@
-MailGenie
+# MailGenie
 
 MailGenie is a Chrome Extension that helps users generate professional email replies automatically using AI (Google Gemini API).
 
-Features
+## Features
 
 1.Integrates directly into Gmail
 
@@ -17,7 +17,7 @@ Features
 6.Supports user instructions like tone, style, and format
 
 
-Technologies Used
+## Technologies Used
 
 1.Chrome Extension (JavaScript )
 
@@ -28,6 +28,6 @@ Technologies Used
 4.RESTful API for communication between extension and backend
 
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please submit a Pull Request for improvements or bug fixes.
