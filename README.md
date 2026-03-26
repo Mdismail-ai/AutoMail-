@@ -1,4 +1,4 @@
-# MailGenie
+# Email Generator
 
 MailGenie is a Chrome Extension that helps users generate professional email replies automatically using AI (Google Gemini API).
 
